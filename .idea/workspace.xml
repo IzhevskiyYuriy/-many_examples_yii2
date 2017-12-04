@@ -2,167 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3659c920-21fd-4fd6-bf70-0245190a3e5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Vagrantfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/assets/AppAsset.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/codeception.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/config/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/config/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/config/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/config/params.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/config/test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/controllers/SiteController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/models/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_data/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_data/login_data.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_output/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_support/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_support/FunctionalTester.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/_support/UnitTester.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/functional.suite.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/functional/LoginCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/functional/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/unit.suite.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/tests/unit/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/views/layouts/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/views/site/error.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/views/site/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/views/site/login.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/web/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/web/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/backend/web/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/codeception.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/codeception.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/config/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/config/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/config/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/config/params.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/config/test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/fixtures/UserFixture.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/mail/layouts/html.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/mail/layouts/text.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/mail/passwordResetToken-html.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/mail/passwordResetToken-text.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/models/LoginForm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/models/User.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/_data/user.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/_output/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/_support/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/_support/UnitTester.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/unit.suite.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/tests/unit/models/LoginFormTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/common/widgets/Alert.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/config/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/config/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/config/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/config/params.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/controllers/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/migrations/m130524_201442_init.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/models/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/console/runtime/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/config/test-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/web/index-test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/web/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/backend/web/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/common/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/common/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/common/config/test-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/console/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/console/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/config/test-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/web/index-test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/web/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/frontend/web/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/yii" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/yii_test" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/dev/yii_test.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/backend/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/backend/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/backend/web/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/backend/web/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/common/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/common/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/console/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/console/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/frontend/config/main-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/frontend/config/params-local.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/frontend/web/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/frontend/web/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/environments/prod/yii" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/AppAsset.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/codeception.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/config/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/config/bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/config/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/config/params.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/config/test.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/controllers/SiteController.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/models/ContactForm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/models/PasswordResetRequestForm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/models/ResetPasswordForm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/models/SignupForm.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_data/login_data.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_data/user.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_output/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_support/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_support/FunctionalTester.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/_support/UnitTester.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/acceptance.suite.yml.example" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/acceptance/HomeCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/acceptance/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional.suite.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/AboutCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/ContactCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/HomeCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/LoginCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/SignupCest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/functional/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit.suite.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit/_bootstrap.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit/models/ContactFormTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit/models/PasswordResetRequestFormTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit/models/ResetPasswordFormTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/tests/unit/models/SignupFormTest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/layouts/main.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/about.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/contact.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/error.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/login.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/requestPasswordResetToken.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/resetPassword.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/views/site/signup.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/css/site.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/init" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/init.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/requirements.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/config/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/config/vagrant-local.example.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/nginx/app.conf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/nginx/log/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/provision/always-as-root.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/provision/once-as-root.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vagrant/provision/once-as-vagrant.sh" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/yii.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/advanced" afterPath="$PROJECT_DIR$/advanced" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -193,7 +35,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -268,16 +110,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4495000" />
+    <option name="totallyTimeSpent" value="5732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="10" y="20" width="1346" height="688" extended-state="1" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6545139" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -289,7 +132,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6545139" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
